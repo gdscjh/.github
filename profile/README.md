@@ -10,7 +10,7 @@
 
  - 🤝 We keep seeking for help for **sponsorship and funding.**
 
- - 📫 How to reach to us **gdsc.jamiahamdard@gmail.com**
+ - 📫 Reach to us at **gdsc.jamiahamdard@gmail.com**
 
 <h3 align="left">Connect with us:</h3>
 <p align="left">
