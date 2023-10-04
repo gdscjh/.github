@@ -1,12 +1,16 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, We're Google Developer Student Club Jamia Hamdard</h1>
+<h3 align="center">We are passionate about educating the students about technologies and being a trendsetter.</h3>
 
-<!--
+ - 🔭 We're currently working on **community building and educating.**
 
-**Here are some ideas to get you started:**
+ - 🌱 We're currently learning **bringing all the nerds together at a place.**
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+ - 👯 We would love to collaborate **to foster our community.**
+
+ - 🤝 We keep seeking for help for **sponsorship and funding.**
+
+ - 📫 How to reach to us **gdsc.jamiahamdard@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
